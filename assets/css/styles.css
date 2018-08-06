@@ -21,5 +21,9 @@ h1{
     color: #4aaaa5;
 }
 .row{
-    margin: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.col-md-3{
+    margin-top: 10px;
 }
