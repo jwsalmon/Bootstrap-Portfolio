@@ -1,0 +1,22 @@
+.navbar-brand{
+    background-color: #4aaaa5;
+    color: white;
+    padding: 0px 5px 0px 5px;
+}
+.navbar{
+    /*padding: 0px 0px 0px 0px;*/
+    margin-rignt: 25px;
+}
+.maincontainer{
+    margin-top: 30px;
+    border: 1px solid black;
+   
+}
+.col-md-12 {
+}
+h1{
+    color: #4aaaa5;
+}
+.row{
+    margin: 10px;
+}
