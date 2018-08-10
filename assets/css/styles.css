@@ -32,3 +32,6 @@ input[type=submit] {
     color: white;
     background-color: green;
 }
+.col-md-9{
+    padding-top: 5px
+}
