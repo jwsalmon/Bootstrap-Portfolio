@@ -27,3 +27,8 @@ h1{
 .col-md-3{
     margin-top: 10px;
 }
+input[type=submit] {
+    font-size: 14pt;
+    color: white;
+    background-color: green;
+}
